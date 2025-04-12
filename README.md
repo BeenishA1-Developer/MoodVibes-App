@@ -10,12 +10,13 @@ A simple mood-based UI app using Jetpack Compose.
 ## 📱 Screenshots
 | Mood    | Preview |
 |---------|---------|
-| Happy 😊| ![Happy](https://github.com/beenishdev/MoodVibes-App/raw/main/happy.png) |
-| Sad 😞  | ![Sad](https://github.com/beenishdev/MoodVibes-App/raw/main/sad.png) |
-| Angry 😡| ![Angry](https://github.com/beenishdev/MoodVibes-App/raw/main/angry.png) |
-| Chill 😎| ![Chill](https://github.com/beenishdev/MoodVibes-App/raw/main/chill.png) |
-| Excited 😆| ![Excited](https://github.com/beenishdev/MoodVibes-App/raw/main/excited.png) |
-| Relax 🧘‍♀️| ![Relax](https://github.com/beenishdev/MoodVibes-App/raw/main/relax.png) |
+| Happy 😊| ![Happy](https://github.com/BeenishA1-Developer/MoodVibes-App/raw/main/happy.png) |
+| Sad 😞  | ![Sad](https://github.com/BeenishA1-Developer/MoodVibes-App/raw/main/sad.png) |
+| Angry 😡| ![Angry](https://github.com/BeenishA1-Developer/MoodVibes-App/raw/main/angry.png) |
+| Chill 😎| ![Chill](https://github.com/BeenishA1-Developer/MoodVibes-App/raw/main/chill.png) |
+| Excited 😆| ![Excited](https://github.com/BeenishA1-Developer/MoodVibes-App/raw/main/excited.png) |
+| Relax 🧘‍♀️| ![Relax](https://github.com/BeenishA1-Developer/MoodVibes-App/raw/main/relax.png) |
+
 
 ## 🛠️ Tech Used
 - Jetpack Compose
